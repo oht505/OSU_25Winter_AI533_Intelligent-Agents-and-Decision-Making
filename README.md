@@ -6,9 +6,12 @@
 
 * 2 Mini-projects
 - MP1: Given MDP environment,
-  Part A: Implement Value Iteration and Policy Iteration.
-  
   <img width="221" alt="image" src="https://github.com/user-attachments/assets/23eb2b08-17a4-4c1f-ba3c-3cee29c2375f" />
+  
+  Part A: Implement Value Iteration and Policy Iteration.
+  <img width="334" alt="image" src="https://github.com/user-attachments/assets/0fc68dff-aa49-43e5-8978-534939122911" />
+  <img width="209" alt="image" src="https://github.com/user-attachments/assets/eecc81d1-42db-4406-8154-17563e6ae959" />
+
 
   Part B: Imitation Learning - Generate Trajectory and implement DAGGER algorithm
   
