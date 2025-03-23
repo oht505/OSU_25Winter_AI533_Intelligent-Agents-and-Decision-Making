@@ -1,1 +1,1 @@
-# OSU_25Winter_AI533_Intelligent-Agents-and-Decision-Making
+# AI533 Intelligent Agents and Decision Making
