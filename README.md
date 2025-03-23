@@ -6,6 +6,7 @@
 
 * 2 Mini-projects
 - MP1: Given MDP environment, Part A: Implement Value Iteration and Policy Iteration.
+
   <img width="221" alt="image" src="https://github.com/user-attachments/assets/23eb2b08-17a4-4c1f-ba3c-3cee29c2375f" />
   
   <img width="334" alt="image" src="https://github.com/user-attachments/assets/0fc68dff-aa49-43e5-8978-534939122911" />
@@ -15,8 +16,8 @@
 
   Part B: Imitation Learning - Generate Trajectory and implement DAGGER algorithm
   
-  <img width="340" alt="image" src="https://github.com/user-attachments/assets/050b93e7-16c0-4a38-a03b-a05ec9b6ce59" />
-  <img width="301" alt="image" src="https://github.com/user-attachments/assets/fc10d778-57f6-43de-84f1-27bdf5c1a3ad" />
+  <img width="636" alt="image" src="https://github.com/user-attachments/assets/050b93e7-16c0-4a38-a03b-a05ec9b6ce59" />
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/fc10d778-57f6-43de-84f1-27bdf5c1a3ad" />
 
 - MP2: Given MDP environment,
   Part A: TD Methods - Implement Tabular SARSA, Q-learning, SARSA(λ)
