@@ -21,6 +21,8 @@
 
 - MP2: Given MDP environment,
   Part A: TD Methods - Implement Tabular SARSA, Q-learning, SARSA(λ)
+
+  <img width="221" alt="image" src="https://github.com/user-attachments/assets/23eb2b08-17a4-4c1f-ba3c-3cee29c2375f" />
   <img width="373" alt="image" src="https://github.com/user-attachments/assets/7ad7dc20-b8d7-4b79-a1cd-902a3e70a4f7" />
   <img width="368" alt="image" src="https://github.com/user-attachments/assets/1b8dc819-a5c3-41d0-b803-a1ca7dce53e1" />
   <img width="365" alt="image" src="https://github.com/user-attachments/assets/db6d77ca-e26c-4c0c-a59e-98b88a72dba2" />
